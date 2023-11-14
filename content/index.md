@@ -15,5 +15,5 @@ Pour installer HUGO, suivez les étapes suivantes :
 
 ## Workflow pour GitHub Action et Auto Deploy
 
-Nous avons mis en place un workflow pour GitHub Action et Auto Deploy qui permet de déployer automatiquement les modifications apportées au site. Pour plus d'informations, consultez la [page correspondante](/workflows).
+Nous avons mis en place un workflow pour GitHub Action et Auto Deploy qui permet de déployer automatiquement les modifications apportées au site. Pour plus d'informations, consultez la [page correspondante](workflows).
 
