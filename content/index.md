@@ -1,4 +1,4 @@
-# Index
+# Bienvenue sur un site généré avec HUGO !
 
 ## Qu'est-ce que HUGO ?
 
