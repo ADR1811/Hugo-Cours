@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://adr1811.github.io/Hugo-Cours'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Site trop nul'
 theme = 'hugo-PaperMod'
 [[menu.main]]
 identifier = "Workflow"
