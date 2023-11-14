@@ -4,8 +4,6 @@ date: 2023-11-14T00:00:00Z
 draft: false
 ---
 
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-
 ```yaml
 name: Deploy Hugo site to Pages
 
