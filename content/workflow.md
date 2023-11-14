@@ -2,6 +2,7 @@
 title: "Sample workflow for building and deploying a Hugo site to GitHub Pages"
 date: 2023-11-14T00:00:00Z
 draft: false
+
 ---
 
 ```yaml
@@ -72,4 +73,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-
