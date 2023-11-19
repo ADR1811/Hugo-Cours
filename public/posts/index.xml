@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Site trop nul</title>
-    <link>https://adr1811.github.io/Hugo-Cours/</link>
-    <description>Recent content on Site trop nul</description>
+    <title>Posts on Site trop nul</title>
+    <link>https://adr1811.github.io/Hugo-Cours/posts/</link>
+    <description>Recent content in Posts on Site trop nul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://adr1811.github.io/Hugo-Cours/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://adr1811.github.io/Hugo-Cours/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMMENT INSTALLER HUGO LA TROISIEME VA VOUS CHOQUER</title>
       <link>https://adr1811.github.io/Hugo-Cours/posts/helloworld-copy-2/</link>
@@ -36,16 +36,6 @@ Image de google Installation de Hugo La première étape consiste à installer H
       <description>Bienvenue sur mon blog Hugo ! Hugo est un générateur de site statique open-source écrit en Go. Il est rapide, facile à utiliser et très flexible. Dans cet article, je vais vous montrer comment j&amp;rsquo;ai créé ce blog avec Hugo.
 Image de google Installation de Hugo La première étape consiste à installer Hugo sur votre ordinateur. Vous pouvez télécharger la dernière version de Hugo sur le site officiel. Une fois que vous avez téléchargé Hugo, vous pouvez vérifier que l&amp;rsquo;installation s&amp;rsquo;est bien déroulée en exécutant la commande suivante dans votre terminal :</description>
     </item>
-    
-    <item>
-      <title>Sample workflow for building and deploying a Hugo site to GitHub Pages</title>
-      <link>https://adr1811.github.io/Hugo-Cours/workflow/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://adr1811.github.io/Hugo-Cours/workflow/</guid>
-      <description>name: Deploy Hugo site to Pages on: push: branches: - main workflow_dispatch: permissions: contents: read pages: write id-token: write concurrency: group: &amp;#34;pages&amp;#34; cancel-in-progress: false defaults: run: shell: bash jobs: build: runs-on: ubuntu-latest env: HUGO_VERSION: 0.120.2 steps: - name: Install Hugo CLI run: | wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \ &amp;amp;&amp;amp; sudo dpkg -i ${{ runner.temp }}/hugo.deb - name: Install Dart Sass run: sudo snap install dart-sass - name: Checkout uses: actions/checkout@v4 with: submodules: recursive fetch-depth: 0 - name: Setup Pages id: pages uses: actions/configure-pages@v3 - name: Install Node.</description>
-    </item>
-    
     
   </channel>
 </rss>

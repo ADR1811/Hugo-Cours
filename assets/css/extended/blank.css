@@ -1,4 +1,23 @@
-.first-entry{
-    border: 1px solid #e5e5e5;
-    padding : 10px;
+.main-title {
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
+}
+
+.main-title > h2 {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold; 
+    color: #000000;
+}
+
+.dark .main-title {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.dark .main-title > h2 {
+    color: #ffffff;
 }

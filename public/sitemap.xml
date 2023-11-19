@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://adr1811.github.io/Hugo-Cours/posts/helloworld-copy-2/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://adr1811.github.io/Hugo-Cours/posts/helloworld-copy/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://adr1811.github.io/Hugo-Cours/posts/helloworld/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adr1811.github.io/Hugo-Cours/posts/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adr1811.github.io/Hugo-Cours/workflow/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adr1811.github.io/Hugo-Cours/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adr1811.github.io/Hugo-Cours/categories/</loc>
+  </url><url>
+    <loc>https://adr1811.github.io/Hugo-Cours/search/</loc>
+  </url><url>
+    <loc>https://adr1811.github.io/Hugo-Cours/tags/</loc>
   </url>
 </urlset>

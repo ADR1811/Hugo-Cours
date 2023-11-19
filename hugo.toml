@@ -2,9 +2,15 @@ baseURL = 'https://adr1811.github.io/Hugo-Cours'
 languageCode = 'en-us'
 title = 'Site trop nul'
 theme = 'hugo-PaperMod'
+[outputs]
+home=[ "HTML", "RSS", "JSON"]
 
 [[menu.main]]
 identifier = "Workflow"
 name = "Workflow"
 url = "/workflow/"
 
+[[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
